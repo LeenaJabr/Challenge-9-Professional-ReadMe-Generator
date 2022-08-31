@@ -16,7 +16,7 @@ This application needs node and npm to function. To use this aplication dowload 
 This application can be used to make a great readme for your project!
 
 ## Demo
-See it in action on ![ezgif com-gif-maker(5)](https://user-images.githubusercontent.com/107494937/187588383-4e179ebc-a53f-411b-aa72-1597e3e9ccd2.gif)
+![ezgif com-gif-maker(5)](https://user-images.githubusercontent.com/107494937/187588383-4e179ebc-a53f-411b-aa72-1597e3e9ccd2.gif)
 
 
 ## Our Pledge
